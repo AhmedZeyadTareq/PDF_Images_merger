@@ -4,7 +4,7 @@ import os
 from PIL import Image  # For image processing
 
 # Path to your logo
-logo_link = r"images\formal image.jpg"
+logo_link = r"\images\formal image.jpg"
 
 
 def convert_image_to_pdf(image_path):
