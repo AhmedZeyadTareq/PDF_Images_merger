@@ -44,7 +44,7 @@ This project was implemented by:<br>
 🔹 Ahmed Zeyad Tareq<br>
 🔹 AI Engineer & Data Scientist<br>
 🔹 📷 Instagram: @adlm7<br>
-🔹 🔗 LinkedIn: Ahmed Zeyad Tareq<br>
+🔹 🔗 LinkedIn: [AhmedZeyadTareq](https://www.linkedin.com/in/ahmed-zeyad-tareq)<br>
 
 ⭐ Support & Contribution
 If you like this project, don’t forget to give it a star ⭐!
