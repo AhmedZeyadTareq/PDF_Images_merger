@@ -28,7 +28,9 @@ Built using **Python** and **Streamlit**, this app allows you to upload and merg
 ```
 
 2️⃣ Run the app:
+```
 streamlit run app.py
+```
 
 3️⃣ Open your browser and start using the tool! 🎉
 
