@@ -41,10 +41,10 @@ streamlit run app.py
 
 👨‍💻 About the Developer
 This project was implemented by:
-🔹 Ahmed Zeyad Tareq
-🔹 AI Engineer & Data Scientist
-🔹 📷 Instagram: @adlm7
-🔹 🔗 LinkedIn: Ahmed Zeyad Tareq
+🔹 Ahmed Zeyad Tareq. 
+🔹 AI Engineer & Data Scientist. 
+🔹 📷 Instagram: @adlm7. 
+🔹 🔗 LinkedIn: Ahmed Zeyad Tareq. 
 
 ⭐ Support & Contribution
 If you like this project, don’t forget to give it a star ⭐!
