@@ -41,8 +41,8 @@ streamlit run app.py
 
 👨‍💻 About the Developer
 This project was implemented by:
--🔹 Ahmed Zeyad Tareq.
--🔹 AI Engineer & Data Scientist.
+*🔹 Ahmed Zeyad Tareq.
+🔹 AI Engineer & Data Scientist.
 🔹 📷 Instagram: @adlm7.
 🔹 🔗 LinkedIn: Ahmed Zeyad Tareq.
 
