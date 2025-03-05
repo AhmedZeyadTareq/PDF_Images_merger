@@ -21,7 +21,7 @@ Built using **Python** and **Streamlit**, this app allows you to upload and merg
 
 ---
 
-## 🖥 **How to Run**
+## 🖥 **How to Run Locally**
 1️⃣ **Install dependencies:**
    ```bash
    pip install streamlit pymupdf pillow
@@ -33,6 +33,11 @@ streamlit run app.py
 ```
 
 3️⃣ Open your browser and start using the tool! 🎉
+
+## you can try it onlne directly:
+`
+[link](https://pdfimagesmerger---eng-ahmedzeyadtareq.streamlit.app/))
+`
 
 📸 Preview
 
