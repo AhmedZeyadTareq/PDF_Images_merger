@@ -36,7 +36,7 @@ streamlit run app.py
 
 ## you can try it onlne directly:
 `
-[link](https://pdfimagesmerger---eng-ahmedzeyadtareq.streamlit.app/))
+[link](https://pdfimagesmerger---eng-ahmedzeyadtareq.streamlit.app/)
 `
 
 📸 Preview
