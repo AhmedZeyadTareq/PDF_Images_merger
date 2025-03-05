@@ -40,7 +40,7 @@ streamlit run app.py
 📸 Preview
 
 👨‍💻 About the Developer
-This project was implemented by:
+This project was implemented by:<br>
 🔹 Ahmed Zeyad Tareq<br>
 🔹 AI Engineer & Data Scientist<br>
 🔹 📷 Instagram: @adlm7<br>
