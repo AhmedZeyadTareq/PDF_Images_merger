@@ -35,7 +35,7 @@ streamlit run app.py
 3️⃣ Open your browser and start using the tool! 🎉
 
 ## you can try it onlne directly:
-`[link](https://pdfimagesmerger---eng-ahmedzeyadtareq.streamlit.app)`
+`[PDF Images Merger App](https://pdfimagesmerger---eng-ahmedzeyadtareq.streamlit.app){:target="_blank"}`
 
 📸 Preview
 
