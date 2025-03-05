@@ -25,7 +25,7 @@ Built using **Python** and **Streamlit**, this app allows you to upload and merg
 1️⃣ **Install dependencies:**
    ```bash
    pip install streamlit pymupdf pillow
-
+```
 
 2️⃣ Run the app:
 streamlit run app.py
