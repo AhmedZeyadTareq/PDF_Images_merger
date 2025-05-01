@@ -39,12 +39,12 @@ streamlit run app.py
 
 📸 Preview
 
-👨‍💻 About the Developer
-This project was implemented by:<br>
-🔹 Ahmed Zeyad Tareq<br>
-🔹 AI Engineer & Data Scientist<br>
-🔹 📷 Instagram: @adlm7<br>
-🔹 🔗 LinkedIn: [AhmedZeyadTareq](https://www.linkedin.com/in/ahmed-zeyad-tareq)<br>
+
+## 👨‍💻 Developed By
+### **Ahmed Zeyad Tareq**  
+📌 Data Scientist & AI Developer | 🎓 Master of AI Engineering
+- 📞 WhatsApp: +905533333587 
+- [GitHub](https://github.com/AhmedZeyadTareq) | [LinkedIn](https://www.linkedin.com/in/ahmed-zeyad-tareq) | [Kaggle](https://www.kaggle.com/ahmedzeyadtareq)
 
 ⭐ Support & Contribution
 If you like this project, don’t forget to give it a star ⭐!
