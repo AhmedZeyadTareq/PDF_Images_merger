@@ -37,7 +37,6 @@ streamlit run app.py
 ## you can try it onlne directly:
 '[PDF Images Merger App](https://pdfimagesmerger---eng-ahmedzeyadtareq.streamlit.app)'
 
-📸 Preview
 
 
 ## 👨‍💻 Developed By
